@@ -1,0 +1,14 @@
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.AssemblyInfoInputs.cache
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.AssemblyInfo.cs
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.csproj.CoreCompileInputs.cache
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\bin\Debug\net9.0\ExamenParcial1.exe
+C:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\bin\Debug\net9.0\ExamenParcial1.deps.json
+C:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\bin\Debug\net9.0\ExamenParcial1.runtimeconfig.json
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\bin\Debug\net9.0\ExamenParcial1.dll
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\bin\Debug\net9.0\ExamenParcial1.pdb
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.dll
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\refint\ExamenParcial1.dll
+c:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.pdb
+C:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ExamenParcial1.genruntimeconfig.cache
+C:\Users\ho_ho\Desktop\CODIGOS\C#\ExamenParcial1\obj\Debug\net9.0\ref\ExamenParcial1.dll
